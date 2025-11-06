@@ -4,9 +4,8 @@
     </header>
 </template>
 
+<script></script>
+
 <style scoped>
-    header {
-        width: 100%;
-        border-bottom: 4px solid #fefefe;
-    }
+
 </style>
