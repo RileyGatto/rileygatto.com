@@ -21,4 +21,10 @@
     a {
         text-decoration: none;
     }
+
+    @media (max-width: 500px) {
+        footer {
+            display: block;
+        }
+    }
 </style>

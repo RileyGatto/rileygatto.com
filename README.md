@@ -3,6 +3,9 @@
 
 ## How to run Vue 3 + Vite
 
+### npm install
+Will install dependencies
+
 ### npm run dev
 This will run the web page locally
 
