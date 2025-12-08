@@ -1,6 +1,7 @@
 # Vue 3 + Vite website hosted on Github pages
 
 ## Preview
+![proj-img](./Preview.png)
 
 ## How to run Vue 3 + Vite
 
